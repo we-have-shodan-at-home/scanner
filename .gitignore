@@ -1,4 +1,5 @@
 tools/
+tmp/
 paused.conf
 masscan.json
 minecraft-servers/
